@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Does my code look like a junior programmer wrote it? That's probably because I don't curiate this profile, so all that's visible is stuff from when I was learning to code.
+
 <!--
 **JamesTheTerry/JamesTheTerry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
