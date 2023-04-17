@@ -1,3 +1,5 @@
+![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f313364326a486c536c786b6c56652f67697068792e676966](https://user-images.githubusercontent.com/9438471/232352202-1759b077-02ea-440d-b7e0-a7fffa998a95.gif)
+
 ### Hi there 👋
 
 Does my code look like a college student wrote it? That's probably because I don't curiate this profile, so all that's visible is stuff from when I was learning to code.
